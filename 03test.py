@@ -1,0 +1,8 @@
+print("wwwww")
+print("wwwww")
+print("wwwww")
+print("wwwww")
+print("wwwww")
+print("wwwww")
+print("wwwww")
+print("wwwww")
